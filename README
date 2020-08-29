@@ -1,1 +1,10 @@
 This repository contains various image classification models and the necessary code to train, evaluate and run inference on those.
+
+To Do:
+- Image Preprocessing Difference on Results
+-- Normalization
+-- Photometric Distortions
+-- Geometric Distortions
+etc.
+
+(Also for Object Detection)
