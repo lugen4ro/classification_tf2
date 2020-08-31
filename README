@@ -5,6 +5,6 @@ To Do:
 -- Normalization
 -- Photometric Distortions
 -- Geometric Distortions
-etc.
+- Loss Function Difference on Results (L2,L1,Huber etc.)
 
 (Also for Object Detection)
